@@ -11,7 +11,7 @@
 - O cliente poderá escolher ou informar em qual mesa irá se sentar, escolher os itens do cardápio, marcar os seus favoritos, 
   a informação dos melhores avaliados ficam salvas dentro do APP.
 
-- Também os ADMS do app podem fazer seu login, onde teriam opções como: Pedidos em andamento, histórico dos antedimentos, 
+- Também os ADMS do app podem fazer seu login, onde teriam opções como: Pedidos em andamento, histórico dos antedimentos 
   e add/editar categorias e itens.
 
 
