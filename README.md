@@ -3,7 +3,7 @@
 * Objetivo de mostrar minha evolução na parte de DESIGN
 
 * Esse é meu primeiro trabalho de desenvolvimento de uma ideia pelo FIGMA!
-  Trabalho entregue da matéria de Fundamentos e Design de Sistemas (UNINTER).
+  Trabalho entregue da matéria de Fundamentos e Design de Sistemas do curso superior em Engenharia de Software pela UNINTER.
   Segundo correção pelo responsável da aplicação o mesmo ficou datado, 
   com problemas na escolha das cores, dimensão da fonte também deveria ser reavaliada! 
 
